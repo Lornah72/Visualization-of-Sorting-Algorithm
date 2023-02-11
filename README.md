@@ -30,6 +30,12 @@ If you already have python and pip installed, run the following command [pip](ht
 pip install matplotlib
 ```
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="IMAGE ALT TEXT">
+  </a>
+</p>
+
 ## License
 
 @LornahSanga
