@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/68066226/218258964-587df88e-f2ff-4cd5-
 Bubble Sort is a sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order.The process is repeated until the list is sorted in the desired order.
 Bubble sort has a worst-case and average-case time complexity of O(n^2), where n is the number of items being sorted. This makes it inefficient for large data sets and it is generally not used in practice for that reason. However, it is still a good algorithm for small data sets and for educational purposes, as it is easy to understand and implement.
 #### Bubble sort visualization
-https://user-images.githubusercontent.com/68066226/218258578-41e2d605-43eb-430b-8f30-1cb89ef2da6a.mov
+https://user-images.githubusercontent.com/68066226/218259048-567e927b-6e60-47e9-8547-57960a95f2a8.mov
 
 
 ## 3. Merge sort
