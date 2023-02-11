@@ -24,10 +24,10 @@ Merge Sort is often implemented using a recursive approach, but can also be impl
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+If you already have python and pip installed, run the following command [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install foobar
+pip install matplotlib
 ```
 
 ## Usage
