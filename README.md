@@ -1,8 +1,8 @@
 # Visualization-of-Sorting-Algorithm
 Explore the magic of sorting algorithms with this visually stunning Github repository! Get a chance to see different sorting algorithms in action, as they sort through an array of numbers in real-time. With a user-friendly interface, you can interact with each algorithm, adjusting the speed and size of the data set to your preference. 
-# Foobar
+# What is a sorting algorithm?
 
-Foobar is a Python library for dealing with word pluralization.
+A sorting algorithm is a method used to arrange data elements in a specific order, such as ascending or descending. It is a fundamental concept in computer science, and is used in many different applications, such as data processing, database management, and more. Sorting algorithms come in a variety of types, including bubble sort, insertion sort, selection sort, merge sort, quick sort, and more. Each algorithm has its own strengths and weaknesses, and the choice of which one to use depends on the specific needs of the task at hand. Overall, sorting algorithms are an important tool for organizing data and making it easier to work with.
 
 ## Installation
 
