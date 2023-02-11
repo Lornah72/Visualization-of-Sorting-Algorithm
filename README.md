@@ -10,6 +10,8 @@ A sorting algorithm is a method used to arrange data elements in a specific orde
 QuickSort is a divide-and-conquer algorithm that works by selecting a "pivot" element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively. This process continues until all elements are sorted.
 QuickSort is one of the most widely used sorting algorithms and is known for its efficiency, with a best-case time complexity of O(n log n) and an average-case time complexity of O(n log n). This makes it well-suited for large data sets. In addition, QuickSort is also highly adaptive, meaning that it works well even when the data is already partially sorted or when there are duplicate values in the array.
 QuickSort has a few disadvantages, such as its poor performance in the worst case and its high memory requirements, as it uses an O(log n) amount of extra memory due to the recursion. However, these issues can often be addressed through various optimizations and modifications to the basic algorithm.
+### visualization
+
 
 ## 2. Bubble sort
 
