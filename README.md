@@ -30,11 +30,10 @@ If you already have python and pip installed, run the following command [pip](ht
 pip install matplotlib
 ```
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="IMAGE ALT TEXT">
-  </a>
-</p>
+<video width="320" height="240" controls>
+  <source src="C:\Users\Lornah\Videos\2022-08-25 20-51-29.mkv" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## License
 
