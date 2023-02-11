@@ -4,7 +4,7 @@ Explore the magic of sorting algorithms with this visually stunning Github repos
 
 A sorting algorithm is a method used to arrange data elements in a specific order, such as ascending or descending. It is a fundamental concept in computer science, and is used in many different applications, such as data processing, database management, and more. Sorting algorithms come in a variety of types, including bubble sort, insertion sort, selection sort, merge sort, quick sort, and more. Each algorithm has its own strengths and weaknesses, and the choice of which one to use depends on the specific needs of the task at hand. Overall, sorting algorithms are an important tool for organizing data and making it easier to work with.
 
-# Brief description of some sorting algorithm
+# Brief description of some sorting algorithms
 ## 1. Quick sort
 
 QuickSort is a divide-and-conquer algorithm that works by selecting a "pivot" element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively. This process continues until all elements are sorted.
