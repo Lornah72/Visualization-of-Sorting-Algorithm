@@ -29,11 +29,7 @@ If you already have python and pip installed, run the following command [pip](ht
 ```bash
 pip install matplotlib
 ```
-
-<video width="320" height="240" controls>
-  <source src="C:\Users\Lornah\Videos\2022-08-25 20-51-29.mkv" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/68066226/218258578-41e2d605-43eb-430b-8f30-1cb89ef2da6a.mov
 
 ## License
 
